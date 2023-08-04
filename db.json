@@ -2,11 +2,48 @@
   "Products": [
     {
       "id": 1,
-      "Product Name": "",
-      "Product Description": "",
-      "Gender": "",
-      "Category": "",
-      "Price": ""
+      "Image": "https://m.media-amazon.com/images/I/71MaGTXl7ML._UY741_.jpg",
+      "Product Name": "Lymio Casual Shirt for Men",
+      "Product Description": "Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt || Men Printed Shirt (Mistry)",
+      "Gender": "MALE",
+      "Category": "Shirt",
+      "Price": "366"
+    },
+    {
+      "id": 1,
+      "Image": "https://m.media-amazon.com/images/I/71MaGTXl7ML._UY741_.jpg",
+      "Product Name": "Lymio Casual Shirt for Men",
+      "Product Description": "Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt || Men Printed Shirt (Mistry)",
+      "Gender": "MALE",
+      "Category": "Shirt",
+      "Price": "366"
+    },
+    {
+      "id": 1,
+      "Image": "https://m.media-amazon.com/images/I/71MaGTXl7ML._UY741_.jpg",
+      "Product Name": "Lymio Casual Shirt for Men",
+      "Product Description": "Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt || Men Printed Shirt (Mistry)",
+      "Gender": "MALE",
+      "Category": "Shirt",
+      "Price": "366"
+    },
+    {
+      "id": 1,
+      "Image": "https://m.media-amazon.com/images/I/71MaGTXl7ML._UY741_.jpg",
+      "Product Name": "Lymio Casual Shirt for Men",
+      "Product Description": "Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt || Men Printed Shirt (Mistry)",
+      "Gender": "MALE",
+      "Category": "Shirt",
+      "Price": "366"
+    },
+    {
+      "id": 1,
+      "Image": "https://m.media-amazon.com/images/I/71MaGTXl7ML._UY741_.jpg",
+      "Product Name": "Lymio Casual Shirt for Men",
+      "Product Description": "Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt || Men Printed Shirt (Mistry)",
+      "Gender": "MALE",
+      "Category": "Shirt",
+      "Price": "366"
     }
   ]
 }
